@@ -11,7 +11,7 @@ features: # 可选的
   - title: 文章阅读
     details: Youtube、TED等文章阅读
     imgUrl: /img/python.png # 可选
-    link: /backEnd/
+    link: /articalRead/
   - title: 雅思
     details: 雅思备考专栏
     imgUrl: /img/english.png # 可选
