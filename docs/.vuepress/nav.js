@@ -5,11 +5,11 @@ module.exports = [
     link: '/IELTSPlan/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
   },
   {
-    text: '页面',
-    link: '/ui/',
+    text: '读书',
+    link: '/readBooks/',
     items: [
-      { text: 'HTML', link: '/pages/8309a5b876fc95e3/' },
-      { text: 'CSS', link: '/pages/0a83b083bdf257cb/' },
+      { text: '人类简史', link: '/pages/eb11ef/' },
+      { text: '富爸爸穷爸爸', link: '/pages/a8157c/' },
     ],
   },
   {
